@@ -1,10 +1,9 @@
 # Личный проект «Седона»
 
 * Студент: [Андрей Барбашин](https://up.htmlacademy.ru/htmlcss/33/user/1961719).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Иовлев](https://htmlacademy.ru/profile/skywalker)
 
 ---
-
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
